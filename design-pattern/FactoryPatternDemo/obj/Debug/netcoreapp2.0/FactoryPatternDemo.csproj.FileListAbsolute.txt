@@ -1,0 +1,10 @@
+/Users/sinhnx/Desktop/ooad/design-pattern/FactoryPatternDemo/bin/Debug/netcoreapp2.0/FactoryPatternDemo.deps.json
+/Users/sinhnx/Desktop/ooad/design-pattern/FactoryPatternDemo/bin/Debug/netcoreapp2.0/FactoryPatternDemo.runtimeconfig.json
+/Users/sinhnx/Desktop/ooad/design-pattern/FactoryPatternDemo/bin/Debug/netcoreapp2.0/FactoryPatternDemo.runtimeconfig.dev.json
+/Users/sinhnx/Desktop/ooad/design-pattern/FactoryPatternDemo/bin/Debug/netcoreapp2.0/FactoryPatternDemo.dll
+/Users/sinhnx/Desktop/ooad/design-pattern/FactoryPatternDemo/bin/Debug/netcoreapp2.0/FactoryPatternDemo.pdb
+/Users/sinhnx/Desktop/ooad/design-pattern/FactoryPatternDemo/obj/Debug/netcoreapp2.0/FactoryPatternDemo.csproj.CoreCompileInputs.cache
+/Users/sinhnx/Desktop/ooad/design-pattern/FactoryPatternDemo/obj/Debug/netcoreapp2.0/FactoryPatternDemo.AssemblyInfoInputs.cache
+/Users/sinhnx/Desktop/ooad/design-pattern/FactoryPatternDemo/obj/Debug/netcoreapp2.0/FactoryPatternDemo.AssemblyInfo.cs
+/Users/sinhnx/Desktop/ooad/design-pattern/FactoryPatternDemo/obj/Debug/netcoreapp2.0/FactoryPatternDemo.dll
+/Users/sinhnx/Desktop/ooad/design-pattern/FactoryPatternDemo/obj/Debug/netcoreapp2.0/FactoryPatternDemo.pdb

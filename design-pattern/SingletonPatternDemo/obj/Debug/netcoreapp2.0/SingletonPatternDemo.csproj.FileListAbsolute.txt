@@ -1,0 +1,10 @@
+/Users/sinhnx/Desktop/ooad/design-pattern/SingletonPatternDemo/bin/Debug/netcoreapp2.0/SingletonPatternDemo.deps.json
+/Users/sinhnx/Desktop/ooad/design-pattern/SingletonPatternDemo/bin/Debug/netcoreapp2.0/SingletonPatternDemo.runtimeconfig.json
+/Users/sinhnx/Desktop/ooad/design-pattern/SingletonPatternDemo/bin/Debug/netcoreapp2.0/SingletonPatternDemo.runtimeconfig.dev.json
+/Users/sinhnx/Desktop/ooad/design-pattern/SingletonPatternDemo/bin/Debug/netcoreapp2.0/SingletonPatternDemo.dll
+/Users/sinhnx/Desktop/ooad/design-pattern/SingletonPatternDemo/bin/Debug/netcoreapp2.0/SingletonPatternDemo.pdb
+/Users/sinhnx/Desktop/ooad/design-pattern/SingletonPatternDemo/obj/Debug/netcoreapp2.0/SingletonPatternDemo.csproj.CoreCompileInputs.cache
+/Users/sinhnx/Desktop/ooad/design-pattern/SingletonPatternDemo/obj/Debug/netcoreapp2.0/SingletonPatternDemo.AssemblyInfoInputs.cache
+/Users/sinhnx/Desktop/ooad/design-pattern/SingletonPatternDemo/obj/Debug/netcoreapp2.0/SingletonPatternDemo.AssemblyInfo.cs
+/Users/sinhnx/Desktop/ooad/design-pattern/SingletonPatternDemo/obj/Debug/netcoreapp2.0/SingletonPatternDemo.dll
+/Users/sinhnx/Desktop/ooad/design-pattern/SingletonPatternDemo/obj/Debug/netcoreapp2.0/SingletonPatternDemo.pdb

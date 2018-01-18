@@ -1,0 +1,10 @@
+/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/obj/Debug/netcoreapp2.0/MVCPatternDemo.csproj.CoreCompileInputs.cache
+/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/obj/Debug/netcoreapp2.0/MVCPatternDemo.AssemblyInfoInputs.cache
+/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/obj/Debug/netcoreapp2.0/MVCPatternDemo.AssemblyInfo.cs
+/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/bin/Debug/netcoreapp2.0/MVCPatternDemo.deps.json
+/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/bin/Debug/netcoreapp2.0/MVCPatternDemo.runtimeconfig.json
+/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/bin/Debug/netcoreapp2.0/MVCPatternDemo.runtimeconfig.dev.json
+/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/bin/Debug/netcoreapp2.0/MVCPatternDemo.dll
+/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/bin/Debug/netcoreapp2.0/MVCPatternDemo.pdb
+/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/obj/Debug/netcoreapp2.0/MVCPatternDemo.dll
+/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/obj/Debug/netcoreapp2.0/MVCPatternDemo.pdb
