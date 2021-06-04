@@ -14,6 +14,8 @@ namespace FactoryPatternDemo
                     return new Rectangle();
                 case "SQUARE":
                     return new Square();
+                case "ELIPSE":
+                    return null;
                 default:
                     return null;
             }

@@ -664,21 +664,17 @@
     ]
   },
   "packageFolders": {
-    "/Users/sinhnx/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/sinhnx/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/MVCPatternDemo.csproj",
+      "projectUniqueName": "/Volumes/Data/sinhdev/ooad/design-pattern/MVCPatternDemo/MVCPatternDemo.csproj",
       "projectName": "MVCPatternDemo",
-      "projectPath": "/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/MVCPatternDemo.csproj",
+      "projectPath": "/Volumes/Data/sinhdev/ooad/design-pattern/MVCPatternDemo/MVCPatternDemo.csproj",
       "packagesPath": "/Users/sinhnx/.nuget/packages/",
-      "outputPath": "/Users/sinhnx/Desktop/ooad/design-pattern/MVCPatternDemo/obj/",
+      "outputPath": "/Volumes/Data/sinhdev/ooad/design-pattern/MVCPatternDemo/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "/Users/sinhnx/.nuget/NuGet/NuGet.Config"
       ],
@@ -690,6 +686,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
+          "targetAlias": "netcoreapp2.0",
           "projectReferences": {}
         }
       },
@@ -701,18 +698,26 @@
     },
     "frameworks": {
       "netcoreapp2.0": {
+        "targetAlias": "netcoreapp2.0",
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }
